@@ -5,7 +5,9 @@
 - 📫 How to reach me? +233554374251 on WhatsApp, [LinkedIn](https://www.linkedin.com/in/alhassan-o-83039a80/), [Facebook](https://facebook.com/n3wtongh) 
 
 [![Alhassan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=flemton)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark#gh-dark-mode-only) <br>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flemton)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flemton&hide=c%23)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+
+[![Alhassan's's wakatime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=flemton)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 flemton/flemton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
