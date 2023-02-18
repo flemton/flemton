@@ -34,9 +34,8 @@
 [![Alhassan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=flemton&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flemton&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br>
 ![](https://hit.yhype.me/github/profile?user_id=36508436) <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=flemton&theme=dark)](https://git.io/streak-stats)
 [![Alhassan's's wakatime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=flemton&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=flemton&theme=dark)](https://git.io/streak-stats)
 
 <div align="end">
 <p><b>Visitors Count</b></p>  
