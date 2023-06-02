@@ -1,4 +1,30 @@
-👋 Hi, I’m [Alhassan Osman](https://github.com/flemton)
+<h1 align="center">👋 Hi, I’m Alhassan (Newton) Osman</h1>
+
+
+![Newton's image](https://github.com/flemton/flemton/blob/77f333de05483bba9ef54a7c6fa9fe664c7cde07/Neutral%20Modern%20Web%20Developer%20LinkedIn%20Banner.png)
+
+<h3 align="center">
+  
+![](https://github.com/flemton)<img src="https://img.shields.io/github/stars/flemton.svg?color=blue&logo=github"></a>
+</h3>
+
+<h1>About Me! 😎</h1>
+I am a Full-Stack Developer student currently enrolled at Microverse, a remote software development school that enables developers from all over the world to pair-program and build projects together and I love solving problems!
+
+Some of my achievements are: 
+I successfully completed a contracts on Upwork for building RESTful APIs with Python Flask for clients to satisfaction, tested codes, reviewed pull requests (code) and fixed bugs for contracted clients.
+I helped build an App for a client with my teammates at Gallimore Software that is currently on the Apple App Store and I am pumped to do even more going forward.
+
+I have a strong background from Microverse and my past hands-on experiences in both front-end and back-end development using technologies such as React, Redux, React Native, Angular, Python, MySQL and SQL Server.
+
+My Stack:
+Front-End: HTLM5, CSS3, JavaScript, React, React-Native, Redux, Angular
+Back-End: Python, MySQL, SQL Server
+Tools & Methods: Git, GitHub, Render, Azure, Mobile Native Development
+Professional: Teamwork, Pair-Programming
+
+I'm looking for opportunities to grow my skills through solving real world problems. Don't hesitate to mail, call or text me +233554374251 for any collaborations, questions, clarifications or opportunities, thank you and have a nice one.
+
 - 👀 I’m currently learning Full Stack development at @microverseinc, 💞️ looking to collaborate on any projects
 - 🧑‍🏭 I'm currently available for hire
 - 📫 How to reach me? +233554374251 on WhatsApp, mail [me](mailto:oalhassan847@gmail.com) at oalhassan847@gmail.com or check out my [LinkedIn](https://www.linkedin.com/in/alhassan-o-83039a80/) and [Facebook](https://facebook.com/n3wtongh) 
@@ -37,6 +63,15 @@
 [![Alhassan's's wakatime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=flemton&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=flemton&theme=dark)](https://git.io/streak-stats)
  
+## 🏆 GitHub Trophies
+
+<h3 align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=flemton&theme=darkhub&column=9&margin-w=3&margin-h=2)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</h3> 
+<br> 
+
 <div align="end">
 <p><b>Visitors Count</b></p>  
 <img src="https://profile-counter.glitch.me/{flemton}/count.svg" />
