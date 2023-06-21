@@ -9,13 +9,13 @@
 </h3>
 
 <h1>About Me! 😎</h1>
-I am a Full-Stack Developer student currently enrolled at Microverse, a remote software development school that enables developers from all over the world to pair-program and build projects together and I love solving problems!
+I am a Full-Stack Developer student currently enrolled at Microverse. This remote software development school enables developers from all over the world to pair-program and build projects together and I love solving problems!
 
 Some of my achievements are: 
-I successfully completed a contracts on Upwork for building RESTful APIs with Python Flask for clients to satisfaction, tested codes, reviewed pull requests (code) and fixed bugs for contracted clients.
+I successfully completed contracts on Upwork for building RESTful APIs with Python Flask for clients to satisfaction, tested codes, reviewed pull requests (code), and fixed bugs for contracted clients.
 I helped build an App for a client with my teammates at Gallimore Software that is currently on the Apple App Store and I am pumped to do even more going forward.
 
-I have a strong background from Microverse and my past hands-on experiences in both front-end and back-end development using technologies such as React, Redux, React Native, Angular, Python, MySQL and SQL Server.
+I have a strong background from Microverse and past hands-on experiences in both front-end and back-end development using technologies such as React, Redux, React Native, Angular, Python, MySQL, and SQL Server.
 
 My Stack:
 Front-End: HTLM5, CSS3, JavaScript, React, React-Native, Redux, Angular
@@ -23,7 +23,7 @@ Back-End: Python, MySQL, SQL Server
 Tools & Methods: Git, GitHub, Render, Azure, Mobile Native Development
 Professional: Teamwork, Pair-Programming
 
-I'm looking for opportunities to grow my skills through solving real world problems. Don't hesitate to mail, call or text me +233554374251 for any collaborations, questions, clarifications or opportunities, thank you and have a nice one.
+I'm looking for opportunities to grow my skills through solving real-world problems. Don't hesitate to mail, call or text me at +233554374251 for any collaborations, questions, clarifications, or opportunities, thank you, and have a nice one.
 
 - 👀 I’m currently learning Full Stack development at @microverseinc, 💞️ looking to collaborate on any projects
 - 🧑‍🏭 I'm currently available for hire
@@ -40,6 +40,7 @@ I'm looking for opportunities to grow my skills through solving real world probl
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
   <img src="https://img.shields.io/badge/Angular-E34F26?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-400000?style=for-the-badge&logo=PostgreSQL&logoColor=blue" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -52,6 +53,7 @@ I'm looking for opportunities to grow my skills through solving real world probl
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-00000f?style=for-the-badge&logo=Ruby&logoColor=purple" />
   </p>
 </section>
 
