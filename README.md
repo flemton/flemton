@@ -15,11 +15,11 @@ Some of my achievements are:
 I successfully completed contracts on Upwork for building RESTful APIs with Python Flask for clients to satisfaction, tested codes, reviewed pull requests (code), and fixed bugs for contracted clients.
 I helped build an App for a client with my teammates at Gallimore Software that is currently on the Apple App Store and I am pumped to do even more going forward.
 
-I have a strong background from Microverse and past hands-on experiences in both front-end and back-end development using technologies such as React, Redux, React Native, Angular, Python, MySQL, and SQL Server.
+I have a strong background from Microverse and past hands-on experiences in both front-end and back-end development using technologies such as React, Redux, React Native, Angular, Python, MySQL, Ruby, and SQL Server.
 
 My Stack:
 Front-End: HTLM5, CSS3, JavaScript, React, React-Native, Redux, Angular
-Back-End: Python, MySQL, SQL Server
+Back-End: Python, MySQL, SQL Server, Ruby
 Tools & Methods: Git, GitHub, Render, Azure, Mobile Native Development
 Professional: Teamwork, Pair-Programming
 
