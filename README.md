@@ -80,6 +80,8 @@ I'm looking for opportunities to grow my skills through solving real-world probl
 <img src="https://profile-counter.glitch.me/{flemton}/count.svg" />
 </div>
 
+[![committers.top badge](https://user-badge.committers.top/ghana/flemton.svg)](https://user-badge.committers.top/ghana/flemton)
+
 <!---
 flemton/flemton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
