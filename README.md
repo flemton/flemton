@@ -25,9 +25,9 @@ Professional: Teamwork, Pair-Programming
 
 I'm looking for opportunities to grow my skills through solving real-world problems. Don't hesitate to mail, call or text me at +233554374251 for any collaborations, questions, clarifications, or opportunities, thank you, and have a nice one.
 
-- 👀 I’m currently learning Full Stack development at @microverseinc, 💞️ looking to collaborate on any projects
+- 👀 Completed Full Stack development at @microverseinc, 💞️ looking to collaborate on any projects
 - 🧑‍🏭 I'm currently available for hire
-- 📫 How to reach me? +233554374251 on WhatsApp, mail [me](mailto:oalhassan847@gmail.com) at oalhassan847@gmail.com or check out my [LinkedIn](https://www.linkedin.com/in/alhassan-o-83039a80/) and [Facebook](https://facebook.com/n3wtongh)
+- 📫 How to reach me? +233554374251 on WhatsApp, mail [me](mailto:oalhassan847@gmail.com) at oalhassan847@gmail.com or check out my [LinkedIn](https://www.linkedin.com/in/newtongh/) and [Facebook](https://facebook.com/n3wtongh)
 
 <section>
   <h2><i>My Stack</i></h2>
