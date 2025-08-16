@@ -63,7 +63,7 @@ I'm looking for opportunities to grow my skills through solving real-world probl
   <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=flemton&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://flemton-stats-2nua-hmsyptnhr-flemtons-projects.vercel.app/api/top-langs/?username=flemton&show_icons=true&theme=dark&card_width=520" />
+  <img height=200 align="center" src="https://flemton-stats-2nua-hmsyptnhr-flemtons-projects.vercel.app/api/top-langs/?username=flemton&show_icons=true&theme=dark&card_width=320" />
 </a>
 
 ![](https://hit.yhype.me/github/profile?user_id=36508436) <br>
