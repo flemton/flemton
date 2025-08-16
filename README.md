@@ -9,21 +9,21 @@
 </h3>
 
 <h1>About Me! 😎</h1>
-I am a Full-Stack Developer student currently enrolled at Microverse. This remote software development school enables developers from all over the world to pair-program and build projects together and I love solving problems!
+I am a Full-Stack Developer student currently enrolled at Microverse. This remote software development school enables developers from all over the world to pair-program and build projects together, and I love solving problems!
 
 Some of my achievements are: 
-I successfully completed contracts on Upwork for building RESTful APIs with Python Flask for clients to satisfaction, tested codes, reviewed pull requests (code), and fixed bugs for contracted clients.
+I completed contracts on Upwork for building RESTful APIs with Python Flask for clients' satisfaction, tested code, reviewed pull requests (code), and fixed bugs for contracted clients.
 I helped build an App for a client with my teammates at Gallimore Software that is currently on the Apple App Store and I am pumped to do even more going forward.
 
 I have a strong background from Microverse and past hands-on experiences in both front-end and back-end development using technologies such as React, Redux, React Native, Angular, Python, MySQL, Ruby, and SQL Server.
 
 My Stack:
-Front-End: HTLM5, CSS3, JavaScript, React, React-Native, Redux, Angular
+Front-End: HTML5, CSS3, JavaScript, React, React-Native, Redux, Angular
 Back-End: Python, MySQL, SQL Server, Ruby
 Tools & Methods: Git, GitHub, Render, Azure, Mobile Native Development
 Professional: Teamwork, Pair-Programming
 
-I'm looking for opportunities to grow my skills through solving real-world problems. Don't hesitate to mail, call or text me at +233554374251 for any collaborations, questions, clarifications, or opportunities, thank you, and have a nice one.
+I'm looking for opportunities to grow my skills through solving real-world problems. Don't hesitate to mail, call, or text me at +233554374251 for any collaborations, questions, clarifications, or opportunities, thank you, and have a nice one.
 
 - 👀 Completed Full Stack development at @microverseinc, 💞️ looking to collaborate on any projects
 - 🧑‍🏭 I'm currently available for hire
@@ -59,11 +59,22 @@ I'm looking for opportunities to grow my skills through solving real-world probl
 
 <h2><i>My GitHub Stats</i></h2>
 
-[![Alhassan's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=flemton&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flemton&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=flemton&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://flemton-stats-2nua-hmsyptnhr-flemtons-projects.vercel.app/api/top-langs/?username=flemton&show_icons=true&theme=dark&card_width=520" />
+</a>
+
 ![](https://hit.yhype.me/github/profile?user_id=36508436) <br>
-[![Alhassan's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=flemton)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=flemton&theme=dark)](https://git.io/streak-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=flemton&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only&card_width=520" />
+</a>
+
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=flemton&theme=dark&card_width=520" />
+</a>
  
 ## 🏆 GitHub Trophies
 
