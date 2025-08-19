@@ -75,6 +75,7 @@ I'm looking for opportunities to grow my skills through solving real-world probl
 <a href="https://git.io/streak-stats">
   <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=flemton&theme=dark&card_width=520" />
 </a>
+
  
 ## 🏆 GitHub Trophies
 
@@ -90,7 +91,9 @@ I'm looking for opportunities to grow my skills through solving real-world probl
 <img src="https://profile-counter.glitch.me/{flemton}/count.svg" />
 </div>
 
+
 [![committers.top badge](https://user-badge.committers.top/ghana/flemton.svg)](https://user-badge.committers.top/ghana/flemton)
+
 
 <!---
 flemton/flemton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
