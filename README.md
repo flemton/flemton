@@ -72,6 +72,7 @@ I'm looking for opportunities to grow my skills through solving real-world probl
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=flemton&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only&card_width=520" />
 </a>
 
+
 <a href="https://git.io/streak-stats">
   <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=flemton&theme=dark&card_width=520" />
 </a>
@@ -82,15 +83,15 @@ I'm looking for opportunities to grow my skills through solving real-world probl
 <h3 align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=flemton&theme=darkhub&column=9&margin-w=3&margin-h=2)](https://github.com/ryo-ma/github-profile-trophy)
-  
+
 </h3> 
+
 <br> 
 
 <div align="end">
 <p><b>Visitors Count</b></p>  
 <img src="https://profile-counter.glitch.me/{flemton}/count.svg" />
 </div>
-
 
 [![committers.top badge](https://user-badge.committers.top/ghana/flemton.svg)](https://user-badge.committers.top/ghana/flemton)
 
