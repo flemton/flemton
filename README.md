@@ -72,7 +72,6 @@ I'm looking for opportunities to grow my skills through solving real-world probl
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=flemton&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only&card_width=520" />
 </a>
 
-
 <a href="https://git.io/streak-stats">
   <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=flemton&theme=dark&card_width=520" />
 </a>
