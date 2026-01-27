@@ -78,7 +78,7 @@ Exam prep platform for UK nurses with analytics and offline study
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=flemton&theme=tokyonight" />
+  <img height="170" src="https://git.io/streak-stats/?user=flemton&theme=tokyonight" />
 </p>
 
 ---
@@ -86,7 +86,7 @@ Exam prep platform for UK nurses with analytics and offline study
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=flemton&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://trophy.ryglcloud.net/?username=flemton&theme=dark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
