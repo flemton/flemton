@@ -1,102 +1,101 @@
-<h1 align="center">👋 Hi, I’m Alhassan (Newton) Osman</h1>
+<h1 align="center">👋 Hi, I'm Alhassan (Newton) Osman</h1>
+<h3 align="center">Full-Stack & Mobile Developer | React • React Native (Expo) • Node • Firebase • GCP</h3>
 
+<p align="center">
+  I build production-ready web and mobile apps with real users, scalable backends, and clean UX.
+</p>
 
-![Newton's image](https://github.com/flemton/flemton/blob/77f333de05483bba9ef54a7c6fa9fe664c7cde07/Neutral%20Modern%20Web%20Developer%20LinkedIn%20Banner.png)
+<p align="center">
+  <a href="https://www.linkedin.com/in/newtongh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Newton%20Osman-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:oalhassan847@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/flemton">
+    <img src="https://img.shields.io/github/followers/flemton?label=Follow&style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-<h3 align="center">
-  
-![](https://github.com/flemton)<img src="https://img.shields.io/github/stars/flemton.svg?color=blue&logo=github"></a>
-</h3>
+---
 
-<h1>About Me! 😎</h1>
-I am a Full-Stack Developer student currently enrolled at Microverse. This remote software development school enables developers from all over the world to pair-program and build projects together, and I love solving problems!
+## 🚀 About Me
 
-Some of my achievements are: 
-I completed contracts on Upwork for building RESTful APIs with Python Flask for clients' satisfaction, tested code, reviewed pull requests (code), and fixed bugs for contracted clients.
-I helped build an App for a client with my teammates at Gallimore Software that is currently on the Apple App Store and I am pumped to do even more going forward.
+I'm a **Full-Stack Developer** with 4+ years of experience building and supporting **production web and mobile applications** using **React, React Native (Expo), Node.js, Firebase, and GCP**.
 
-I have a strong background from Microverse and past hands-on experiences in both front-end and back-end development using technologies such as React, Redux, React Native, Angular, Python, MySQL, Ruby, and SQL Server.
+### 🔥 Recent Highlights
+- 📱 Led development of **Hormesis Elite**, a React Native app live on App Store & Google Play with paying users  
+- ⚡ Migrated backend to **Node.js + Firebase (GCP)** → ~40% faster APIs, **50%+ lower cloud costs**  
+- 🔐 Built secure auth, real-time features, and scalable serverless APIs  
+- 🛠 Fixed production bugs and shipped features with minimal downtime  
+- 🌍 Delivered backend systems handling **10k+ daily requests** for international clients
 
-My Stack:
-Front-End: HTML5, CSS3, JavaScript, React, React-Native, Redux, Angular
-Back-End: Python, MySQL, SQL Server, Ruby
-Tools & Methods: Git, GitHub, Render, Azure, Mobile Native Development
-Professional: Teamwork, Pair-Programming
+I enjoy building products end-to-end — from UI to backend to deployment.
 
-I'm looking for opportunities to grow my skills through solving real-world problems. Don't hesitate to mail, call, or text me at +233554374251 for any collaborations, questions, clarifications, or opportunities, thank you, and have a nice one.
+---
 
-- 👀 Completed Full Stack development at @microverseinc, 💞️ looking to collaborate on any projects
-- 🧑‍🏭 I'm currently available for hire
-- 📫 How to reach me? +233554374251 on WhatsApp, mail [me](mailto:oalhassan847@gmail.com) at oalhassan847@gmail.com or check out my [LinkedIn](https://www.linkedin.com/in/newtongh/) and [Facebook](https://facebook.com/n3wtongh)
+## 🧰 Tech Stack
 
-<section>
-  <h2><i>My Stack</i></h2>
-  <br>
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-  <img src="https://img.shields.io/badge/Angular-E34F26?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-400000?style=for-the-badge&logo=PostgreSQL&logoColor=blue" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PYTHON-brown?style=for-the-badge&logo=python&logoColor=61DAFB" /> 
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/C-Sharp-00599C?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SQLSERVER-07405E?style=for-the-badge&logo=sqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-00000f?style=for-the-badge&logo=Ruby&logoColor=purple" />
-  </p>
-</section>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 
-<h2><i>My GitHub Stats</i></h2>
+### Backend & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=flemton&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://flemton-stats-2nua-hmsyptnhr-flemtons-projects.vercel.app/api/top-langs/?username=flemton&show_icons=true&theme=dark&card_width=320" />
-</a>
+### Tools
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode)
 
-![](https://hit.yhype.me/github/profile?user_id=36508436) <br>
+---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=flemton&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only&card_width=520" />
-</a>
+## 📌 Featured Projects
 
-<a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=flemton&theme=dark&card_width=520" />
-</a>
+### 🏆 Hormesis Elite — Mobile App (Production)
+Competitive paintball ranking system with real users  
+📱 React Native (Expo) • Firebase • GCP  
+🔗 https://apps.apple.com/gh/app/hormesis-elite/id6449320338
 
- 
+### 🧠 NMC CBT Practice Pro (In Progress)
+Exam prep platform for UK nurses with analytics and offline study  
+📱 React Native • Firebase  
+🔗 https://x.com/newtonf/status/2000967374904885718
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=flemton&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flemton&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=flemton&theme=tokyonight" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
-<h3 align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=flemton&theme=darkhub&column=9&margin-w=3&margin-h=2)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=flemton&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
-</h3> 
+---
 
-<br> 
+## 📫 Let's Connect
 
-<div align="end">
-<p><b>Visitors Count</b></p>  
-<img src="https://profile-counter.glitch.me/{flemton}/count.svg" />
-</div>
+- 💼 LinkedIn: https://www.linkedin.com/in/newtongh/
+- 📧 Email: oalhassan847@gmail.com
+- 📱 WhatsApp: +233554374251
 
-[![committers.top badge](https://user-badge.committers.top/ghana/flemton.svg)](https://user-badge.committers.top/ghana/flemton)
-
-
-<!---
-flemton/flemton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+I'm open to **Full-Stack, React, and React Native roles — remote or hybrid**.  
+If you're building a product and need someone who can ship and scale, let's talk 🚀
