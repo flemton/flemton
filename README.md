@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/newtongh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Newton%20Osman-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Alhassan%20Osman-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:oalhassan847@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
