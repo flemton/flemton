@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Alhassan (Newton) Osman</h1>
-<h3 align="center">Full-Stack & Mobile Developer | React • React Native (Expo) • Node • Firebase • GCP</h3>
+<h3 align="center">Full-Stack & Mobile Developer | React • React Native (Expo) • Node.js • Firebase • GCP</h3>
 
 <p align="center">
-  I build production-ready web and mobile apps with real users, scalable backends, and clean UX.
+  I build and ship production-ready web and mobile products with clean UX, scalable backends, and real users.
 </p>
 
 <p align="center">
@@ -21,16 +21,39 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** with 4+ years of experience building and supporting **production web and mobile applications** using **React, React Native (Expo), Node.js, Firebase, and GCP**.
+I'm a **Full-Stack Developer** with 4+ years of experience building and maintaining **production web and mobile applications** using **React, React Native (Expo), Node.js, Firebase, and GCP**.
 
-### 🔥 Recent Highlights
-- 📱 Led development of **Hormesis Elite**, a React Native app live on App Store & Google Play with paying users  
-- ⚡ Migrated backend to **Node.js + Firebase (GCP)** → ~40% faster APIs, **50%+ lower cloud costs**  
-- 🔐 Built secure auth, real-time features, and scalable serverless APIs  
-- 🛠 Fixed production bugs and shipped features with minimal downtime  
-- 🌍 Delivered backend systems handling **10k+ daily requests** for international clients
+I enjoy building products end-to-end — from frontend UX to backend systems to deployment and production support.
 
-I enjoy building products end-to-end — from UI to backend to deployment.
+### 🔥 Highlights
+- 📱 Built and shipped **mobile apps on the App Store and Google Play**
+- ⚡ Improved backend performance by ~40% and reduced cloud costs by **50%+**
+- 🔐 Built secure auth, real-time features, and scalable serverless APIs
+- 🛠 Fixed production issues and shipped features with minimal downtime
+- 🌍 Supported backend systems handling **10k+ daily requests**
+- 🧩 Comfortable owning both **product-facing UX** and **backend architecture**
+
+---
+
+## 📌 Featured Projects
+
+### 🩺 STG Triage — Clinical Decision Support App
+Offline mobile app built for clinicians, doctors, and health workers in Ghana using the **Ghana Standard Treatment Guidelines** for diagnosis and prescribing support.  
+**Stack:** React Native (Expo), offline-first architecture  
+**Focus:** fast symptom-based triage, lightweight UX, guideline-based support  
+**App Store:** https://apps.apple.com/us/app/stg-triage/id6760623593
+
+### 🧠 NMC CBT Practice Pro — Study App
+Mobile exam prep app for UK nurses with analytics and offline study support.  
+**Stack:** React Native, Firebase  
+**Focus:** exam preparation, progress tracking, offline access  
+**App Store:** https://apps.apple.com/us/app/nmc-cbt-practice-pro/id6756345733
+
+### 🏆 Hormesis Elite — Production Mobile App
+Competitive paintball ranking platform with real users.  
+**Stack:** React Native (Expo), Firebase, GCP  
+**Focus:** live production use, engagement, ranking workflows  
+**App Store:** https://apps.apple.com/gh/app/hormesis-elite/id6449320338
 
 ---
 
@@ -56,29 +79,15 @@ I enjoy building products end-to-end — from UI to backend to deployment.
 
 ---
 
-## 📌 Featured Projects
-
-### 🏆 Hormesis Elite — Mobile App (Production)
-Competitive paintball ranking system with real users  
-📱 React Native (Expo) • Firebase • GCP  
-🔗 https://apps.apple.com/gh/app/hormesis-elite/id6449320338
-
-### 🧠 NMC CBT Practice Pro (In Progress)
-Exam prep platform for UK nurses with analytics and offline study  
-📱 React Native • Firebase  
-🔗 https://x.com/newtonf/status/2000967374904885718
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=flemton&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flemton&layout=compact&theme=dark" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=flemton&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flemton&layout=compact&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://git.io/streak-stats/?user=flemton&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=flemton&theme=tokyonight" />
 </p>
 
 ---
@@ -86,7 +95,7 @@ Exam prep platform for UK nurses with analytics and offline study
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=flemton&theme=dark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=flemton&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -98,4 +107,8 @@ Exam prep platform for UK nurses with analytics and offline study
 - 📱 WhatsApp: +233554374251
 
 I'm open to **Full-Stack, React, and React Native roles — remote or hybrid**.  
-If you're building a product and need someone who can ship and scale, let's talk 🚀
+If you're building a product and need someone who can ship and scale, let's talk.
+
+<a href="https://github.com/flemton">
+  <img src="https://komarev.com/ghpvc/?username=flemton&style=for-the-badge&color=0e75b6" />
+</a>
