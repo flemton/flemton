@@ -37,25 +37,33 @@ I enjoy building products end-to-end — from frontend UX to backend systems to 
 
 ## 📌 Featured Projects
 
+### 🧾 Tillton POS — Retail POS & Inventory App
+Retail point-of-sale and inventory app for managing sales, stock, staff, and store activity from one mobile workflow.  
+**Stack:** React Native (Expo), Firebase Auth, Firebase Realtime Database  
+**Focus:** sales management, inventory tracking, staff workflows, mobile POS  
+**App Store:** https://apps.apple.com/us/app/tillton-pos/id6765776148  
+**Google Play:** https://play.google.com/store/apps/details?id=com.flemton.tillton
+
 ### 🩺 STG Triage — Clinical Decision Support App
 Offline mobile app built for clinicians, doctors, and health workers in Ghana using the **Ghana Standard Treatment Guidelines** for diagnosis and prescribing support.  
 **Stack:** React Native (Expo), offline-first architecture  
 **Focus:** fast symptom-based triage, lightweight UX, guideline-based support  
-**App Store:** https://apps.apple.com/us/app/stg-triage/id6760623593
+**App Store:** https://apps.apple.com/us/app/stg-triage/id6760623593  
+**Google Play:** https://play.google.com/store/apps/details?id=com.flemton.stgtriage
 
 ### 🧠 NMC CBT Practice Pro — Study App
 Mobile exam prep app for UK nurses with analytics and offline study support.  
 **Stack:** React Native, Firebase  
 **Focus:** exam preparation, progress tracking, offline access  
-**App Store:** https://apps.apple.com/us/app/nmc-cbt-practice-pro/id6756345733
+**App Store:** https://apps.apple.com/us/app/nmc-cbt-practice-pro/id6756345733  
+**Google Play:** https://play.google.com/store/apps/details?id=com.flemton.cbt_practice_pro
 
 ### 🏆 Hormesis Elite — Production Mobile App
 Competitive paintball ranking platform with real users.  
 **Stack:** React Native (Expo), Firebase, GCP  
 **Focus:** live production use, engagement, ranking workflows  
-**App Store:** https://apps.apple.com/gh/app/hormesis-elite/id6449320338
-
----
+**App Store:** https://apps.apple.com/gh/app/hormesis-elite/id6449320338  
+**Google Play:** https://play.google.com/store/apps/details?id=com.gallimore.hormesis_elite
 
 ## 🧰 Tech Stack
 
