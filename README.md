@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/newtongh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Alhassan%20Osman-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:oalhassan847@gmail.com">
+  <a href="mailto:hello@flemton.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/flemton">
@@ -111,8 +111,7 @@ Competitive paintball ranking platform with real users.
 ## 📫 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/newtongh/
-- 📧 Email: oalhassan847@gmail.com
-- 📱 WhatsApp: +233554374251
+- 📧 Email: hello@flemton.com
 
 I'm open to **Full-Stack, React, and React Native roles — remote or hybrid**.  
 If you're building a product and need someone who can ship and scale, let's talk.
